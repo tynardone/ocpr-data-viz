@@ -1,0 +1,217 @@
+date,park_name,facility,variable,metric,value
+2022-06-30,Addison Oaks,campground,campers,total,329.0
+2022-07-31,Addison Oaks,campground,campers,total,376.0
+2022-08-31,Addison Oaks,campground,campers,total,308.0
+2023-06-30,Addison Oaks,campground,campers,total,349.0
+2023-07-31,Addison Oaks,campground,campers,total,341.0
+2023-08-31,Addison Oaks,campground,campers,total,343.0
+2024-06-30,Addison Oaks,campground,campers,total,335.0
+2024-07-31,Addison Oaks,campground,campers,total,318.0
+2024-08-31,Addison Oaks,campground,campers,total,334.0
+2022-06-30,Addison Oaks,campground,revenue,total,3394.0
+2022-07-31,Addison Oaks,campground,revenue,total,3844.0
+2022-08-31,Addison Oaks,campground,revenue,total,3070.0
+2023-06-30,Addison Oaks,campground,revenue,total,3661.0
+2023-07-31,Addison Oaks,campground,revenue,total,3386.0
+2023-08-31,Addison Oaks,campground,revenue,total,3462.0
+2024-06-30,Addison Oaks,campground,revenue,total,3517.0
+2024-07-31,Addison Oaks,campground,revenue,total,3191.0
+2024-08-31,Addison Oaks,campground,revenue,total,3198.0
+2022-06-30,Glen Oaks,golf,revenue,total,35078.0
+2022-07-31,Glen Oaks,golf,revenue,total,33736.0
+2022-08-31,Glen Oaks,golf,revenue,total,34484.0
+2023-06-30,Glen Oaks,golf,revenue,total,34936.0
+2023-07-31,Glen Oaks,golf,revenue,total,31991.0
+2023-08-31,Glen Oaks,golf,revenue,total,33232.0
+2024-06-30,Glen Oaks,golf,revenue,total,32379.0
+2024-07-31,Glen Oaks,golf,revenue,total,35804.0
+2024-08-31,Glen Oaks,golf,revenue,total,33586.0
+2022-06-30,Glen Oaks,golf,rounds played,total,978.0
+2022-07-31,Glen Oaks,golf,rounds played,total,964.0
+2022-08-31,Glen Oaks,golf,rounds played,total,994.0
+2023-06-30,Glen Oaks,golf,rounds played,total,995.0
+2023-07-31,Glen Oaks,golf,rounds played,total,937.0
+2023-08-31,Glen Oaks,golf,rounds played,total,959.0
+2024-06-30,Glen Oaks,golf,rounds played,total,918.0
+2024-07-31,Glen Oaks,golf,rounds played,total,1050.0
+2024-08-31,Glen Oaks,golf,rounds played,total,942.0
+2022-06-30,Groveland Oaks,campground,campers,total,352.0
+2022-07-31,Groveland Oaks,campground,campers,total,336.0
+2022-08-31,Groveland Oaks,campground,campers,total,362.0
+2023-06-30,Groveland Oaks,campground,campers,total,324.0
+2023-07-31,Groveland Oaks,campground,campers,total,322.0
+2023-08-31,Groveland Oaks,campground,campers,total,387.0
+2024-06-30,Groveland Oaks,campground,campers,total,296.0
+2024-07-31,Groveland Oaks,campground,campers,total,320.0
+2024-08-31,Groveland Oaks,campground,campers,total,328.0
+2022-06-30,Groveland Oaks,campground,revenue,total,4517.0
+2022-07-31,Groveland Oaks,campground,revenue,total,4185.0
+2022-08-31,Groveland Oaks,campground,revenue,total,4567.0
+2023-06-30,Groveland Oaks,campground,revenue,total,4040.0
+2023-07-31,Groveland Oaks,campground,revenue,total,3933.0
+2023-08-31,Groveland Oaks,campground,revenue,total,4801.0
+2024-06-30,Groveland Oaks,campground,revenue,total,3711.0
+2024-07-31,Groveland Oaks,campground,revenue,total,4134.0
+2024-08-31,Groveland Oaks,campground,revenue,total,4055.0
+2022-06-30,Red Oaks,waterpark,revenue,total,26974.0
+2022-07-31,Red Oaks,waterpark,revenue,total,30200.0
+2022-08-31,Red Oaks,waterpark,revenue,total,30032.0
+2023-06-30,Red Oaks,waterpark,revenue,total,30162.0
+2023-07-31,Red Oaks,waterpark,revenue,total,26863.0
+2023-08-31,Red Oaks,waterpark,revenue,total,27075.0
+2024-06-30,Red Oaks,waterpark,revenue,total,26469.0
+2024-07-31,Red Oaks,waterpark,revenue,total,27947.0
+2024-08-31,Red Oaks,waterpark,revenue,total,27838.0
+2022-06-30,Red Oaks,waterpark,visitors,total,6763.0
+2022-07-31,Red Oaks,waterpark,visitors,total,7092.0
+2022-08-31,Red Oaks,waterpark,visitors,total,7022.0
+2023-06-30,Red Oaks,waterpark,visitors,total,7149.0
+2023-07-31,Red Oaks,waterpark,visitors,total,6607.0
+2023-08-31,Red Oaks,waterpark,visitors,total,7097.0
+2024-06-30,Red Oaks,waterpark,visitors,total,6393.0
+2024-07-31,Red Oaks,waterpark,visitors,total,7011.0
+2024-08-31,Red Oaks,waterpark,visitors,total,6817.0
+2022-06-30,Springfield Oaks,golf,revenue,total,31720.0
+2022-07-31,Springfield Oaks,golf,revenue,total,33458.0
+2022-08-31,Springfield Oaks,golf,revenue,total,33207.0
+2023-06-30,Springfield Oaks,golf,revenue,total,34143.0
+2023-07-31,Springfield Oaks,golf,revenue,total,34703.0
+2023-08-31,Springfield Oaks,golf,revenue,total,34589.0
+2024-06-30,Springfield Oaks,golf,revenue,total,33177.0
+2024-07-31,Springfield Oaks,golf,revenue,total,34562.0
+2024-08-31,Springfield Oaks,golf,revenue,total,35611.0
+2022-06-30,Springfield Oaks,golf,rounds played,total,912.0
+2022-07-31,Springfield Oaks,golf,rounds played,total,941.0
+2022-08-31,Springfield Oaks,golf,rounds played,total,956.0
+2023-06-30,Springfield Oaks,golf,rounds played,total,964.0
+2023-07-31,Springfield Oaks,golf,rounds played,total,984.0
+2023-08-31,Springfield Oaks,golf,rounds played,total,992.0
+2024-06-30,Springfield Oaks,golf,rounds played,total,934.0
+2024-07-31,Springfield Oaks,golf,rounds played,total,997.0
+2024-08-31,Springfield Oaks,golf,rounds played,total,1012.0
+2022-06-30,Waterford Oaks,waterpark,revenue,total,24848.0
+2022-07-31,Waterford Oaks,waterpark,revenue,total,27537.0
+2022-08-31,Waterford Oaks,waterpark,revenue,total,29439.0
+2023-06-30,Waterford Oaks,waterpark,revenue,total,26113.0
+2023-07-31,Waterford Oaks,waterpark,revenue,total,24879.0
+2023-08-31,Waterford Oaks,waterpark,revenue,total,26867.0
+2024-06-30,Waterford Oaks,waterpark,revenue,total,25131.0
+2024-07-31,Waterford Oaks,waterpark,revenue,total,27063.0
+2024-08-31,Waterford Oaks,waterpark,revenue,total,27913.0
+2022-06-30,Waterford Oaks,waterpark,visitors,total,6118.0
+2022-07-31,Waterford Oaks,waterpark,visitors,total,6637.0
+2022-08-31,Waterford Oaks,waterpark,visitors,total,7250.0
+2023-06-30,Waterford Oaks,waterpark,visitors,total,6709.0
+2023-07-31,Waterford Oaks,waterpark,visitors,total,6384.0
+2023-08-31,Waterford Oaks,waterpark,visitors,total,7016.0
+2024-06-30,Waterford Oaks,waterpark,visitors,total,6255.0
+2024-07-31,Waterford Oaks,waterpark,visitors,total,7129.0
+2024-08-31,Waterford Oaks,waterpark,visitors,total,6980.0
+2022-06-30,Addison Oaks,campground,campers,pct_change,
+2022-07-31,Addison Oaks,campground,campers,pct_change,14.3
+2022-08-31,Addison Oaks,campground,campers,pct_change,-18.1
+2023-06-30,Addison Oaks,campground,campers,pct_change,13.3
+2023-07-31,Addison Oaks,campground,campers,pct_change,-2.3
+2023-08-31,Addison Oaks,campground,campers,pct_change,0.6
+2024-06-30,Addison Oaks,campground,campers,pct_change,-2.3
+2024-07-31,Addison Oaks,campground,campers,pct_change,-5.1
+2024-08-31,Addison Oaks,campground,campers,pct_change,5.0
+2022-06-30,Addison Oaks,campground,revenue,pct_change,
+2022-07-31,Addison Oaks,campground,revenue,pct_change,13.3
+2022-08-31,Addison Oaks,campground,revenue,pct_change,-20.1
+2023-06-30,Addison Oaks,campground,revenue,pct_change,19.3
+2023-07-31,Addison Oaks,campground,revenue,pct_change,-7.5
+2023-08-31,Addison Oaks,campground,revenue,pct_change,2.2
+2024-06-30,Addison Oaks,campground,revenue,pct_change,1.6
+2024-07-31,Addison Oaks,campground,revenue,pct_change,-9.3
+2024-08-31,Addison Oaks,campground,revenue,pct_change,0.2
+2022-06-30,Glen Oaks,golf,revenue,pct_change,
+2022-07-31,Glen Oaks,golf,revenue,pct_change,-3.8
+2022-08-31,Glen Oaks,golf,revenue,pct_change,2.2
+2023-06-30,Glen Oaks,golf,revenue,pct_change,1.3
+2023-07-31,Glen Oaks,golf,revenue,pct_change,-8.4
+2023-08-31,Glen Oaks,golf,revenue,pct_change,3.9
+2024-06-30,Glen Oaks,golf,revenue,pct_change,-2.6
+2024-07-31,Glen Oaks,golf,revenue,pct_change,10.6
+2024-08-31,Glen Oaks,golf,revenue,pct_change,-6.2
+2022-06-30,Glen Oaks,golf,rounds played,pct_change,
+2022-07-31,Glen Oaks,golf,rounds played,pct_change,-1.4
+2022-08-31,Glen Oaks,golf,rounds played,pct_change,3.1
+2023-06-30,Glen Oaks,golf,rounds played,pct_change,0.1
+2023-07-31,Glen Oaks,golf,rounds played,pct_change,-5.8
+2023-08-31,Glen Oaks,golf,rounds played,pct_change,2.3
+2024-06-30,Glen Oaks,golf,rounds played,pct_change,-4.3
+2024-07-31,Glen Oaks,golf,rounds played,pct_change,14.4
+2024-08-31,Glen Oaks,golf,rounds played,pct_change,-10.3
+2022-06-30,Groveland Oaks,campground,campers,pct_change,
+2022-07-31,Groveland Oaks,campground,campers,pct_change,-4.5
+2022-08-31,Groveland Oaks,campground,campers,pct_change,7.7
+2023-06-30,Groveland Oaks,campground,campers,pct_change,-10.5
+2023-07-31,Groveland Oaks,campground,campers,pct_change,-0.6
+2023-08-31,Groveland Oaks,campground,campers,pct_change,20.2
+2024-06-30,Groveland Oaks,campground,campers,pct_change,-23.5
+2024-07-31,Groveland Oaks,campground,campers,pct_change,8.1
+2024-08-31,Groveland Oaks,campground,campers,pct_change,2.5
+2022-06-30,Groveland Oaks,campground,revenue,pct_change,
+2022-07-31,Groveland Oaks,campground,revenue,pct_change,-7.4
+2022-08-31,Groveland Oaks,campground,revenue,pct_change,9.1
+2023-06-30,Groveland Oaks,campground,revenue,pct_change,-11.5
+2023-07-31,Groveland Oaks,campground,revenue,pct_change,-2.6
+2023-08-31,Groveland Oaks,campground,revenue,pct_change,22.1
+2024-06-30,Groveland Oaks,campground,revenue,pct_change,-22.7
+2024-07-31,Groveland Oaks,campground,revenue,pct_change,11.4
+2024-08-31,Groveland Oaks,campground,revenue,pct_change,-1.9
+2022-06-30,Red Oaks,waterpark,revenue,pct_change,
+2022-07-31,Red Oaks,waterpark,revenue,pct_change,12.0
+2022-08-31,Red Oaks,waterpark,revenue,pct_change,-0.6
+2023-06-30,Red Oaks,waterpark,revenue,pct_change,0.4
+2023-07-31,Red Oaks,waterpark,revenue,pct_change,-10.9
+2023-08-31,Red Oaks,waterpark,revenue,pct_change,0.8
+2024-06-30,Red Oaks,waterpark,revenue,pct_change,-2.2
+2024-07-31,Red Oaks,waterpark,revenue,pct_change,5.6
+2024-08-31,Red Oaks,waterpark,revenue,pct_change,-0.4
+2022-06-30,Red Oaks,waterpark,visitors,pct_change,
+2022-07-31,Red Oaks,waterpark,visitors,pct_change,4.9
+2022-08-31,Red Oaks,waterpark,visitors,pct_change,-1.0
+2023-06-30,Red Oaks,waterpark,visitors,pct_change,1.8
+2023-07-31,Red Oaks,waterpark,visitors,pct_change,-7.6
+2023-08-31,Red Oaks,waterpark,visitors,pct_change,7.4
+2024-06-30,Red Oaks,waterpark,visitors,pct_change,-9.9
+2024-07-31,Red Oaks,waterpark,visitors,pct_change,9.7
+2024-08-31,Red Oaks,waterpark,visitors,pct_change,-2.8
+2022-06-30,Springfield Oaks,golf,revenue,pct_change,
+2022-07-31,Springfield Oaks,golf,revenue,pct_change,5.5
+2022-08-31,Springfield Oaks,golf,revenue,pct_change,-0.8
+2023-06-30,Springfield Oaks,golf,revenue,pct_change,2.8
+2023-07-31,Springfield Oaks,golf,revenue,pct_change,1.6
+2023-08-31,Springfield Oaks,golf,revenue,pct_change,-0.3
+2024-06-30,Springfield Oaks,golf,revenue,pct_change,-4.1
+2024-07-31,Springfield Oaks,golf,revenue,pct_change,4.2
+2024-08-31,Springfield Oaks,golf,revenue,pct_change,3.0
+2022-06-30,Springfield Oaks,golf,rounds played,pct_change,
+2022-07-31,Springfield Oaks,golf,rounds played,pct_change,3.2
+2022-08-31,Springfield Oaks,golf,rounds played,pct_change,1.6
+2023-06-30,Springfield Oaks,golf,rounds played,pct_change,0.8
+2023-07-31,Springfield Oaks,golf,rounds played,pct_change,2.1
+2023-08-31,Springfield Oaks,golf,rounds played,pct_change,0.8
+2024-06-30,Springfield Oaks,golf,rounds played,pct_change,-5.8
+2024-07-31,Springfield Oaks,golf,rounds played,pct_change,6.7
+2024-08-31,Springfield Oaks,golf,rounds played,pct_change,1.5
+2022-06-30,Waterford Oaks,waterpark,revenue,pct_change,
+2022-07-31,Waterford Oaks,waterpark,revenue,pct_change,10.8
+2022-08-31,Waterford Oaks,waterpark,revenue,pct_change,6.9
+2023-06-30,Waterford Oaks,waterpark,revenue,pct_change,-11.3
+2023-07-31,Waterford Oaks,waterpark,revenue,pct_change,-4.7
+2023-08-31,Waterford Oaks,waterpark,revenue,pct_change,8.0
+2024-06-30,Waterford Oaks,waterpark,revenue,pct_change,-6.5
+2024-07-31,Waterford Oaks,waterpark,revenue,pct_change,7.7
+2024-08-31,Waterford Oaks,waterpark,revenue,pct_change,3.1
+2022-06-30,Waterford Oaks,waterpark,visitors,pct_change,
+2022-07-31,Waterford Oaks,waterpark,visitors,pct_change,8.5
+2022-08-31,Waterford Oaks,waterpark,visitors,pct_change,9.2
+2023-06-30,Waterford Oaks,waterpark,visitors,pct_change,-7.5
+2023-07-31,Waterford Oaks,waterpark,visitors,pct_change,-4.8
+2023-08-31,Waterford Oaks,waterpark,visitors,pct_change,9.9
+2024-06-30,Waterford Oaks,waterpark,visitors,pct_change,-10.8
+2024-07-31,Waterford Oaks,waterpark,visitors,pct_change,14.0
+2024-08-31,Waterford Oaks,waterpark,visitors,pct_change,-2.1
