@@ -1,4 +1,4 @@
-# OCPR Data Analyst Hiring Project
+# OCPR Data Analyst Project
 Data analysis and visualization project for hiring process of OCPR Parks Data Analyst postion.
 
 ## Project Description
